@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "horse-racing-tips-4d170",
+  "private_key_id": "afbb323b75d3e20c958f297cf43543398b4b1b6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDSxyvwuaBKPkva\nrdm/arANr6U67fZZXxnBNith4aTp+DYkoLIbFZV0T2M2AGJc721o8lZ74s5Nq5YW\n/Ec08c0QgK4AcO9xY3/YNPKbhnItVdHMGGZ6qFkikpK91Sin53oKu7vgyGTakbsZ\n5/9taiH20a/Z+7gjPNNFeOKS0kYNHtoKeNuuMEQOhllfN4DMjcaLSqFCcSauKZaq\n2/35PqwptfQzhEOS7Yoea/+cywtNBGoaMGjZVEJQW+VwQk8JUcU7qtdTx/Ju/1jY\noLji39msgBp3QmXnCCUGVQRqRN973nrvy/ltAygXYXpTji0hmKPjt7m5L7snNv6E\nM4ZpeVwzAgMBAAECggEAD4Hd0WZ8Ii+LzyPumu7+KD5ITsSb1PQdO0zWoOtEAdQO\nz7UO8CqEsLuigKJDRQkh0zsjx8DmYr/WrrboL5Sr/KSAU2ymVoD2h/FP+XHzy91o\n2QuL2/Gvf86pgyk/8NJ5SnmIwhScRERn2pO/WXfEgJnpcS/cL/jVUQ2AG0M4f4B9\nBNTzokyr2wYYmJJT2L56lQH3/Lhkgh3DctmGR4FCyZk4jEbsw4wAVZGqPYxIheEh\nQ4R2gy8qG8x9DO+48sZ7BIv9nsk3YV+D0F+8Dkz15JDMbcRdUZzX5ZlaIgahO/Ky\nM8z77SGg6fbFSTRRwZ3o1vwpLlFo8NhdjPlyuiI2MQKBgQD0sCf7+GPtVa1Wtv8r\n/DVymX55IGa92695K+avIv94zx6W2L0KiJFYO0koAzITwFQlXKSNvOZdrsreKuy8\nKsf18aRPkdvkdv011R2TALJe83WGDjr88lacUgEug8hHEMrRFyhYgwy0lJMlPAnG\n7H2oF/lCFEW9IqZup6RpAztPuwKBgQDchbHsDMjqMnPVgn4A3nNe5DGnifXQjtI9\nCVJf00fEv+A4F4BJmS1IuP9Zr5X9by/YUvvvYEzV6I5z17CwRkK16K/IuHrnMmGt\ngXBmmlLGuZs5koYWQTpvfy9o6hMDfsc8aVhNmpNt2gCm5JF2XnclzG8ngBs/268a\n7mYJQ4Ex6QKBgBqLuerGKeEnuGR9+fUFqa7DJEtzznGukbztnFtHyruKjOEEpo2r\n/0i5NdiXcClgZkCfamLOKZfkTLIJqiFH6uWtz4uqYVbJ6fKbKlg2bSOL+iYPCStE\nB01yQBqRxXqgQcCpaIEhxpEYxVX2y4C/S2qfHzWiCWbZiYDbwyR5a0fdAoGAP4dE\nenw0ZUOjmx68rgNnuS6EH3/fEPYUGwFUecakJkogjgg3LPyzzv98kJnE2/3sCqXd\nbliPyg/0+eppPF8BWOZvvaNnxLL+8L0ZZHWQ4y8VSMCtYDvqWbSKM+87Cwa63ux6\nQ+EEF+F1zp6KSU9tg7YhT3/YWc0v5NJJEuIflgECgYEAuDNM/BUdr5XNZr5mWt9I\nYuN6sA7CKBhQfgdDxu+Kc0H4eT2gDieNT1e45MZldBfZJW+xubx6ag7KdnFOEiEN\nkxufKh+qrlYTK9t2XEzLrM0m9buLZV/GjzHKSmq0urn78UUVxCMagy9Mfs9mR9JX\nMyQQ3VUIbBpFkbMTgTZDLSE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jqhe3@horse-racing-tips-4d170.iam.gserviceaccount.com",
+  "client_id": "109412505537042548168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jqhe3%40horse-racing-tips-4d170.iam.gserviceaccount.com"
+}

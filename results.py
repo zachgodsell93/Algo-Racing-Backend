@@ -1,0 +1,13 @@
+from data_collection.main import results
+from stats.fix_data import bet_results_table
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import firestore
+# Use a service account
+cred = credentials.Certificate('algoracing.json')
+firebase_admin.initialize_app(cred)
+
+db = firestore.client()
+
+results(db)
+bet_results_table(db)
