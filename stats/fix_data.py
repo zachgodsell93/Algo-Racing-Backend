@@ -75,9 +75,9 @@ def bet_results_table(db):
 
             if result != None:
                 if result['finishPosition'] == 1:
-                    total_payout = win_payout + place_payout
+                    total_payout = (win_payout + place_payout) -(win_units + place_units)
                 elif result['finishPosition'] >= 2 and result['finishPosition'] <= 3:
-                    total_payout = place_payout - win_units
+                    total_payout = place_payout - (win_units + place_units)
                 elif result['finishPosition'] < 0:
                     total_payout = 0
                 else:
@@ -157,9 +157,9 @@ def bet_results_table_historic(db):
 
         if result != None:
             if result['finishPosition'] == 1:
-                total_payout = win_payout + place_payout
+                total_payout = (win_payout + place_payout) -(win_units + place_units)
             elif result['finishPosition'] >= 2 and result['finishPosition'] <= 3:
-                total_payout = place_payout - win_units
+                total_payout = place_payout - (win_units + place_units)
             elif result['finishPosition'] < 0:
                 total_payout = 0
             else:
